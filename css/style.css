@@ -1,0 +1,36 @@
+.container{
+    text-align: center;
+}
+
+#formCarros{
+    margin-top: 5rem;
+}
+
+form .row{
+    justify-content: center;
+    text-align: right;
+    margin-top: 1rem;
+}
+
+section{
+    margin-top: 5rem;
+}
+
+section h1{
+    font-size: xx-large;
+}
+
+#dadosCadastrados{
+    justify-content: center;
+}
+
+.dadosCard{
+    background: #E0E0E0;
+    color: #000;
+    padding: 5px;
+    border: #000 solid 1px;
+    border-radius: 5px;
+    margin: 0 2px 5px 2px;
+    width: 25%;
+}
+
